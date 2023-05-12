@@ -1,0 +1,7 @@
+kind	class	method	param	index	uri	reason	annotation	rootClass	rootMethod
+FIELD	test.Foo$Bar	null	f0	null	/Users/nima/Desktop/lombok-scanner-test/src/main/java/test/Foo.java	ASSIGN_FIELD_NULLABLE	nullable	test.Foo$Bar	Bar(java.lang.String)
+FIELD	test.Foo$Bar	null	f1	null	/Users/nima/Desktop/lombok-scanner-test/src/main/java/test/Foo.java	ASSIGN_FIELD_NULLABLE	nullable	test.Foo$Bar	Bar(java.lang.String)
+FIELD	test.Foo$Bar	null	f2	null	/Users/nima/Desktop/lombok-scanner-test/src/main/java/test/Foo.java	ASSIGN_FIELD_NULLABLE	nullable	test.Foo$Bar	Bar(java.lang.String)
+FIELD	test.Foo$Bar	null	f0	null	/Users/nima/Desktop/lombok-scanner-test/src/main/java/test/Foo.java	ASSIGN_FIELD_NULLABLE	nullable	test.Foo$Bar	Bar(java.lang.String,java.lang.String)
+FIELD	test.Foo$Bar	null	f1	null	/Users/nima/Desktop/lombok-scanner-test/src/main/java/test/Foo.java	ASSIGN_FIELD_NULLABLE	nullable	test.Foo$Bar	Bar(java.lang.String,java.lang.String)
+FIELD	test.Foo$Bar	null	f2	null	/Users/nima/Desktop/lombok-scanner-test/src/main/java/test/Foo.java	ASSIGN_FIELD_NULLABLE	nullable	test.Foo$Bar	Bar(java.lang.String,java.lang.String)

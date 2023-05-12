@@ -1,0 +1,7 @@
+id	class	method	parent	size	flags	nullable	visibility	non-primitive-return	path
+1	test.Foo$Bar	Bar(java.lang.String)	0	1	[false]	false	public	false	/Users/nima/Desktop/lombok-scanner-test/src/main/java/test/Foo.java
+2	test.Foo$Bar	Bar(java.lang.String,java.lang.String)	0	2	[false, false]	false	public	false	/Users/nima/Desktop/lombok-scanner-test/src/main/java/test/Foo.java
+3	test.Foo$Bar	Bar(java.lang.String,java.lang.String,java.lang.String)	0	3	[false, false, false]	false	public	false	/Users/nima/Desktop/lombok-scanner-test/src/main/java/test/Foo.java
+4	test.Foo$Bar	equals(java.lang.Object)	5	1	[false]	false	public	false	/Users/nima/Desktop/lombok-scanner-test/src/main/java/test/Foo.java
+6	test.Foo$Bar	canEqual(java.lang.Object)	0	1	[false]	false	protected	false	/Users/nima/Desktop/lombok-scanner-test/src/main/java/test/Foo.java
+7	test.Foo$Bar	hashCode()	8	0	[]	false	public	false	/Users/nima/Desktop/lombok-scanner-test/src/main/java/test/Foo.java

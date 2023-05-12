@@ -1,0 +1,11 @@
+REGION_CLASS	REGION_MEMBER	USED_MEMBER	USED_CLASS	SOURCE_TYPE
+test.Foo$Bar	Bar(java.lang.String)	Object()	java.lang.Object	SOURCE
+test.Foo$Bar	Bar(java.lang.String,java.lang.String)	Object()	java.lang.Object	SOURCE
+test.Foo$Bar	Bar(java.lang.String,java.lang.String,java.lang.String)	Object()	java.lang.Object	LOMBOK
+test.Foo$Bar	equals(java.lang.Object)	canEqual(java.lang.Object)	test.Foo$Bar	LOMBOK
+test.Foo$Bar	equals(java.lang.Object)	equals(java.lang.Object)	java.lang.Object	LOMBOK
+test.Foo$Bar	equals(java.lang.Object)	equals(java.lang.Object)	java.lang.Object	LOMBOK
+test.Foo$Bar	equals(java.lang.Object)	equals(java.lang.Object)	java.lang.Object	LOMBOK
+test.Foo$Bar	hashCode()	hashCode()	java.lang.Object	LOMBOK
+test.Foo$Bar	hashCode()	hashCode()	java.lang.Object	LOMBOK
+test.Foo$Bar	hashCode()	hashCode()	java.lang.Object	LOMBOK

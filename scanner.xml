@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scanner>
+    <method active="true" />
+    <field active="true" />
+    <call active="true" />
+    <class active="true" />
+    <uuid>25087aa1-8e29-4f06-a2dc-03a3a47983f2</uuid>
+    <path>/Users/nima/Desktop/lombok-scanner-test/scanner-out</path>
+    <processor>
+        <LOMBOK active="true" />
+    </processor>
+    <annotations />
+</scanner>

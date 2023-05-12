@@ -1,0 +1,3 @@
+class	path
+test.Foo	/Users/nima/Desktop/lombok-scanner-test/src/main/java/test/Foo.java
+test.Foo$Bar	/Users/nima/Desktop/lombok-scanner-test/src/main/java/test/Foo.java
